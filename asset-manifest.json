@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harisangar2004/To-Do-List/static/css/main.e456c140.css",
+    "main.js": "/harisangar2004/To-Do-List/static/js/main.2f078946.js",
+    "static/js/787.a88f5601.chunk.js": "/harisangar2004/To-Do-List/static/js/787.a88f5601.chunk.js",
+    "index.html": "/harisangar2004/To-Do-List/index.html",
+    "main.e456c140.css.map": "/harisangar2004/To-Do-List/static/css/main.e456c140.css.map",
+    "main.2f078946.js.map": "/harisangar2004/To-Do-List/static/js/main.2f078946.js.map",
+    "787.a88f5601.chunk.js.map": "/harisangar2004/To-Do-List/static/js/787.a88f5601.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e456c140.css",
+    "static/js/main.2f078946.js"
+  ]
+}
