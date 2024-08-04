@@ -1,0 +1,11 @@
+Steps to deploy react app in github
+npm i gh-pages --save-dev
+
+  "homepage": "https://github.com/harisangar2004/To-Do-List",
+    
+    "scripts": {
+        "predeploy":"npm run build",
+        "deploy": "gh-pages -d build"
+    }
+
+npm run deploy
